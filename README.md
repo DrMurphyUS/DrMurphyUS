@@ -66,3 +66,4 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/aminespinoza10/
 [facebook]: https://www.facebook.com/aminespinoza
 -->
+![Image](https://github.com/user-attachments/assets/7c6437d6-1942-4f2e-8b98-732992775875)
