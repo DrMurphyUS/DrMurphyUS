@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 📱 **💙 Kotlin Lover & 🍏 iOS Developer**  
 🤖 **🔬 Apasionado por la Ingeniería Robótica, 🕶️ VR & 🤯 Inteligencia Artificial**  
 ⚙️ **🚀 Explorando el futuro de la tecnología**  
-<!-- Uploading "bangithub.jpg"... -->
+![Image](https://github.com/user-attachments/assets/b21c9ecb-cdc3-4de7-974b-b2c9abfc7808)
 🌍 **🌟 Amante de la innovación y la programación**  
 🎯 **💡 Siempre en busca de nuevos desafíos y proyectos inspiradores**  
 
