@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 ### ⚡ Actividad reciente
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+### ⚡ Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <!--
 [![Twitter](https://img.shields.io/twitter/follow/aminespinoza?color=blue&label=s%C3%ADgueme%20en%20Twitter&style=for-the-badge)][twitter]
