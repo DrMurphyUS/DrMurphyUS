@@ -36,6 +36,10 @@ Here are some ideas to get you started:
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/DrMurphyUS/DrMurphyUS)
 
+### ⚡ Actividad reciente
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 [![Twitter](https://img.shields.io/twitter/follow/aminespinoza?color=blue&label=s%C3%ADgueme%20en%20Twitter&style=for-the-badge)][twitter]
 
