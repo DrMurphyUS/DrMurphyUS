@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 ¡Hola, mundo! Soy <span style="color:#3498db; font-weight:bold;">Murphy Sequeiros</span> 🚀✨  
 
+# 👋 ¡Hola, mundo! Soy <span style="color:#3498db; font-weight:bold;">Murphy Sequeiros</span> 🚀✨  
 💻 **👨‍💻 Ingeniero de Software** | 🛠️ **Desarrollador de Apps**  
 🩺 **👨‍⚕️ Médico Cirujano - 🦠 Epidemiólogo - 📊 Bioestadista**  
 ✍️ **📸 Creador de contenido & 🎨 Diseñador visual**  
 📱 **💙 Kotlin Lover & 🍏 iOS Developer**  
 🤖 **🔬 Apasionado por la Ingeniería Robótica, 🕶️ VR & 🤯 Inteligencia Artificial**  
 ⚙️ **🚀 Explorando el futuro de la tecnología**  
-
+<!-- Uploading "bangithub.jpg"... -->
 🌍 **🌟 Amante de la innovación y la programación**  
 🎯 **💡 Siempre en busca de nuevos desafíos y proyectos inspiradores**  
 
