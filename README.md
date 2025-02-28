@@ -1,4 +1,4 @@
-![Texto en rojo](https://img.shields.io/badge/Murphy-Sequeiros-red)
+<span style="color:red">Texto en rojo</span>
 
 <!--
 **DrMurphyUS/DrMurphyUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
