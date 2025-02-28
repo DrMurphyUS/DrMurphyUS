@@ -36,9 +36,7 @@ Here are some ideas to get you started:
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/DrMurphyUS/DrMurphyUS)
 
-### ⚡ Actividad reciente
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
 ### ⚡ Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [DrMurphyUS/miPrimerRepo](https://github.com/DrMurphyUS/miPrimerRepo)<br>
