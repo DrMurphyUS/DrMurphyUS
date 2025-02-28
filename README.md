@@ -1,4 +1,6 @@
-<span style="color:red">Texto en rojo</span>
+<svg width="200" height="30">
+  <text x="10" y="20" font-size="20" fill="red">Texto en rojo</text>
+</svg>
 
 <!--
 **DrMurphyUS/DrMurphyUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
