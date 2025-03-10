@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 # 👋 Hello, world! I'm **Murphy Sequeiros** 🚀✨  
 💻 **👨‍💻 Software Engineer** | 🛠️ **App Developer**  
 🧬 **👨‍⚕️ Medical Doctor - 🦠 Epidemiologist - 📊 Biostatistician**  
-🌎 **💡 Innovation & Programming Enthusiast**  
-🛠️ **🚀 Exploring the future of technology**  
+
 ![Image](https://github.com/user-attachments/assets/b21c9ecb-cdc3-4de7-974b-b2c9abfc7808)
-🌍 **🌟 Amante de la innovación y la programación**  
-🎯 **💡 Siempre en busca de nuevos desafíos y proyectos inspiradores**  
+🌎 **💡 Innovation & Programming Enthusiast**  
+🛠️ **🚀 Exploring the future of technology**   
 
 💬 **Shall we collaborate?** 📩 Let’s talk and build the future together! 🚀✨  
 
