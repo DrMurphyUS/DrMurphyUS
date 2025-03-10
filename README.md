@@ -14,18 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 ¡Hola, mundo! Soy <span style="color:#3498db; font-weight:bold;">Murphy Sequeiros</span> 🚀✨  
-💻 **👨‍💻 Ingeniero de Software** | 🛠️ **Desarrollador de Apps**  
-🩺 **👨‍⚕️ Médico Cirujano - 🦠 Epidemiólogo - 📊 Bioestadista**  
-✍️ **📸 Creador de contenido & 🎨 Diseñador visual**  
-📱 **💙 Kotlin Lover & 🍏 iOS Developer**  
-🤖 **🔬 Apasionado por la Ingeniería Robótica, 🕶️ VR & 🤯 Inteligencia Artificial**  
-⚙️ **🚀 Explorando el futuro de la tecnología**  
+# 👋 Hello, world! I'm **Murphy Sequeiros** 🚀✨  
+💻 **👨‍💻 Software Engineer** | 🛠️ **App Developer**  
+🧬 **👨‍⚕️ Medical Doctor - 🦠 Epidemiologist - 📊 Biostatistician**  
+🌎 **💡 Innovation & Programming Enthusiast**  
+🛠️ **🚀 Exploring the future of technology**  
 ![Image](https://github.com/user-attachments/assets/b21c9ecb-cdc3-4de7-974b-b2c9abfc7808)
 🌍 **🌟 Amante de la innovación y la programación**  
 🎯 **💡 Siempre en busca de nuevos desafíos y proyectos inspiradores**  
 
-💬 **¿Colaboramos?** 📩 ¡Hablemos y construyamos el futuro juntos! 🚀✨  
+💬 **Shall we collaborate?** 📩 Let’s talk and build the future together! 🚀✨  
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -49,7 +47,7 @@ Here are some ideas to get you started:
 <!--- stats (end) -->
 
 
-### Vías de contacto
+### Contact Information  
 
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.drmurphyus.com&down_message=https%3A%2F%2Fwww.drmurphyus.com&style=for-the-badge)
@@ -57,7 +55,7 @@ Here are some ideas to get you started:
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/DrMurphyUS/DrMurphyUS)
 
 
-### ⚡ Actividad reciente
+### ⚡ Recent Activity 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [DrMurphyUS/JavaPrincipios](https://github.com/DrMurphyUS/JavaPrincipios)<br>
 2. ⬆️ Pushed 1 commit(s) to [DrMurphyUS/JavaPrincipios](https://github.com/DrMurphyUS/JavaPrincipios)<br>
