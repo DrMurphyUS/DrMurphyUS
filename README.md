@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello, world! I'm **Murphy Sequeiros** 🚀✨  
+# 👋🦊 Hello, world! I'm **Murphy Sequeiros** 🚀✨  
 💻 **👨‍💻 Software Engineer** | 🛠️ **App Developer**  
 🧬 **👨‍⚕️ Medical Doctor - 🦠 Epidemiologist - 📊 Biostatistician**  
 
