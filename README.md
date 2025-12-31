@@ -14,15 +14,80 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋🦊 Hello, world! I'm **Murphy Sequeiros** 🚀✨  
-💻 **👨‍💻 Software Engineer** | 🛠️ **App Developer**  
-🧬 **👨‍⚕️ Medical Doctor - 🦠 Epidemiologist - 📊 Biostatistician**  
+# 👋🦊 Hello, world! I'm **Murphy Sequeiros** 🚀
+
+💻 **Software Engineer** | 📱 **Android & iOS App Developer**  
+🧬 **Medical Doctor** | 🦠 **Epidemiologist** | 📊 **Biostatistician**  
+🤖 **AI Engineer (Python) | Machine Learning Practitioner**  
+🗄️ **Data Engineer**
+
 
 ![Image](https://github.com/user-attachments/assets/b21c9ecb-cdc3-4de7-974b-b2c9abfc7808)
-🌎 **💡 Innovation & Programming Enthusiast**  
-🛠️ **🚀 Exploring the future of technology**   
+## 🧠 About Me
+I’m a hybrid professional working at the intersection of **medicine, epidemiology, data engineering, artificial intelligence, and software engineering**.  
+I design and build **scalable, data-driven solutions** for healthcare, public health surveillance, and clinical decision-making.
 
-💬 **Shall we collaborate?** 📩 Let’s talk and build the future together! 🚀✨  
+- 👨‍⚕️ Medical Doctor with experience in **Epidemiology & Public Health**
+- 🏥 Head of Epidemiology at a regional hospital
+- 🎗️ Responsible for the **Hospital Cancer Registry**
+- 🗄️ **Data Engineer** focused on health data pipelines & data quality
+- 🤖 AI developer using **Python & Machine Learning**
+- 💻 Software Engineering student & developer
+- 📊 Strong background in **biostatistics, health data, and surveillance systems**
+- 🎧 DJ & visual creative (because balance matters)
+
+  ## 🛠️ Tech Stack
+
+### 🗄️ Data Engineering & Analytics
+- Data modeling & normalization
+- ETL / ELT pipelines
+- Data quality validation & cleaning
+- SQL optimization & indexing
+- Structured health datasets & registries
+
+### 🤖 AI & Programming
+- Python 🐍
+  - Pandas • NumPy • Scikit-learn • Matplotlib
+- Machine Learning
+  - Supervised & unsupervised learning
+  - Feature engineering & model evaluation
+- Kotlin 📱 (Android – SQLite native)
+- Swift 🍎 (iOS apps)
+- Java ☕
+- SQL (SQLite, SQL Server)
+- HTML • CSS • JavaScript
+- Git & GitHub
+
+### 🏥 Health, Data & AI
+- Epidemiological surveillance systems
+- **Hospital Cancer Registry & oncology data**
+- Biostatistics & public health indicators
+- Health information systems (HIS)
+- Dashboards & decision-support tools
+- Predictive analytics in healthcare
+
+---
+
+## 🚀 Current Interests
+- 🗄️ **Health Data Engineering & pipelines**
+- 🤖 AI & Machine Learning applied to healthcare
+- 🎗️ Digital oncology & cancer registries
+- 🧠 Digital epidemiology & predictive models
+- 📊 Public health analytics
+- 📱 Android & iOS medical apps
+
+---
+
+## 📂 Featured Projects
+- 🗄️ Health data pipelines & ETL projects
+- 🤖 Machine Learning models in Python
+- 🎗️ Hospital Cancer Registry tools & workflows
+- 🏥 Epidemiological surveillance systems
+- 📱 Android apps (SQLite native, no Room)
+- 🍎 iOS health-related apps
+- 📊 Biostatistics & academic research projects
+
+*(More coming soon…)*
 
 <!--- stats & Trophy (start) -->
 <p align="center">
